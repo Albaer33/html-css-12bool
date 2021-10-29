@@ -164,6 +164,9 @@
         max-width: calc((100% / 12)*12);
     }
     /* offset */
+    .col-sm-offset-0 {
+        margin-left: 0;
+    }
     .col-sm-offset-1 {
         margin-left: calc((100%/12)*1);
     }
@@ -248,7 +251,10 @@
         flex-basis: calc((100% / 12)*12);
         max-width: calc((100% / 12)*12);
     }
-        /* offset */
+    /* offset */
+    .col-md-offset-0 {
+        margin-left: 0;
+    }
     .col-md-offset-1 {
         margin-left: calc((100%/12)*1);
     }
@@ -334,6 +340,9 @@
         max-width: calc((100% / 12)*12);
     }
     /* offset */
+    .col-lg-offset-0 {
+        margin-left: 0;
+    }
     .col-lg-offset-1 {
         margin-left: calc((100%/12)*1);
     }
